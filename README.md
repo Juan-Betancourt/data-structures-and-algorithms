@@ -1,3 +1,4 @@
+
 # Array Binary Search
 Create an array that will search an array and return the index of that numeric value
 
