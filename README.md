@@ -1,9 +1,10 @@
 
 # Array Binary Search
-Create an array that will search an array and return the index of that numeric value
+Return the sum of the added value for an array within an array.
 
 ## Challenge
-Creat a white board and prevent from using any method. However, utilizing for loop twice will do the trick.
+Creat a white board and prevent from using any method. Having one array within another is challenging.
 
 ## Solution
-![array_binary_search.jpg](./assets/array_binary_search.jpg)
+![Whiteboard](./assets/add_sum_in_array.jpg)
+![Feedback](./assets/feedback.jpg)
